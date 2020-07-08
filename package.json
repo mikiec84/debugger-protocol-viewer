@@ -9,7 +9,7 @@
   "devDependencies": {
     "css-slam": "^2.0.2",
     "del": "^3.0.0",
-    "eslint": "^4.9.0",
+    "eslint": "^4.18.2",
     "eslint-config-google": "^0.9.1",
     "eslint-plugin-html": "^3.2.2",
     "gh-pages": "^2.0.1",
